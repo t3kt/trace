@@ -22,4 +22,5 @@ time_rangemin	0	bcr2000	s18	1	1	time range min
 time_rangemax	1	bcr2000	s19	1	1	time range max
 trace_point_opacity	.8	bcr2000	s15		1	trace point opacity
 trace_line_opacity	.8	bcr2000	s16		1	trace line opacity
+trace_trail_length	.5	bcr2000	s14		1	trace trail length
 general_overlay_opacity	0	bcr2000	s29		1	overlay opacity
