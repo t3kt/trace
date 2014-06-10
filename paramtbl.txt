@@ -20,6 +20,10 @@ time_reverse	0	bcr2000	b9	1		time reverse
 time_zigzag	0	bcr2000	b10	1		time zigzag
 time_rangemin	0	bcr2000	s18	1	1	time range min
 time_rangemax	1	bcr2000	s19	1	1	time range max
+time_rate1	.3	codev2	s1	1		time rate 1
+time_rate2	.5	codev2	s5	1		time rate 2
+time_rate3	.1	codev2	s9	1		time rate 3
+time_rate4	.2	codev2	s13	1		time rate 4
 trace_point_opacity	.8	bcr2000	s15		1	trace point opacity
 trace_line_opacity	.8	bcr2000	s16		1	trace line opacity
 trace_trail_length	.5	bcr2000	s14		1	trace trail length
